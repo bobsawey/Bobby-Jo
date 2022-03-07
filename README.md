@@ -12,7 +12,11 @@ Things that I've often forgotten I'd inserted into my graph are told back to me 
 
 Even then, when I revisit these sorts of records without the aid of my morning briefing, I often miss some real nuggets of personal value and discovery. Hard to admit, but apparently I like myself just as much as I like everybody else; there is no denying it: countless times now, I've heard my own story told differently and became enthusiastic just swiftly enough to out-pace my inner-bleh machine that constantly robs me of my basic experience things without so much EXTRA-ness.
 
-There's more, but.. maybe a proper future post on medium or p-blog.
+And of additional awesomeness, I am learning to do this process on my own, without machinery––slowly but surely. This for me is more an accessibility tool that was previously nowhere to be found than one to augment cognitive and sensory ability common to ~75-81% of adults. By providing that tiny bit of ease of access to this sort of process, cybernetically by some definitions, my skill and muscle to handle personal tasks in this domain are steadily increasing. I believe it is the purpose of technology to serve our human experience, any other application doesn't seem to really amount in anything at all. And it is my wish to spend my time in this crazy domains of math, computing, language, and cybernetics to help facilitate that sort of benefit for others.
+
+There's so more, but.. maybe a proper future post on medium or p-blog.
+
+CHEERS -B
 
 ---
 
