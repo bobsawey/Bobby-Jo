@@ -10,4 +10,4 @@ I am a mathematician looking sending applications to colleges to complete my deg
 ### Some Stuff:
 **stuff**
 
-Many thanks to [https://github.com/StellaAthena/StellaAthena](Stella Biderman) for this helpful "HELLO!" template.
+Many thanks to [Stella Biderman](https://github.com/StellaAthena/StellaAthena) for this helpful "HELLO!" template.
