@@ -8,7 +8,7 @@ I am a mathematician looking sending applications to colleges to complete my deg
 **links**
 
 ### Some Stuff:
-**stuff**
+- stuff
 ---
 ## Shout out
 Many thanks to [Stella Biderman](https://github.com/StellaAthena/StellaAthena) for this helpful "HELLO!" template.
