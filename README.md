@@ -1,17 +1,18 @@
 # Hi there 👋, our name is Bobby Jo
 
-I am a mathematician goaling toward a return to academia to research and study Mathematical and Computational Linguistics––domains I've found have stuck to my daily, weekly, monthly experiences off and on since highschool :)
+quick disclosure: *A machine was utilized to assist with editing and condensing the previous versions of my bio below. Most words are my own. The arrangement and quantity of content was significantly revised by prior mentioned non-human.*
 
-Currently researching and very much building private, no know, personal graphing tools and apps that lean heavily on novel and somehow complex solutions for "organizing" data using the harsh simplicity presented by flat ontologies as the primary approaches for document inseration and mutations. 
+I am a mathematician who researches Computational Math and Linguistics. I am currently working on personal and private graphing tools / apps that utilize novel solutions for "organizing" data. My personal primary use for these tools at the moment involves dumping data and content from various sources throughout my day into my graph. 
 
-Our current app + platform tech is backed by tiny doses of help from large NLP models in the place you and I find ourselves recording our private rich media. 
+Many mornings these days I use another tool I'm working on that has a purely speech-driven conversational interface. This tool provides me with a digest of the previous day's content. 
 
-In this way, it is immediately ready to be leveraged by other systems with parsing smarts for things like daily briefings--this is my current primary use; my system briefs me on the items left in the system from the day before and we walk through the summaries and make decisions on how to handle those items: archive, push, update, draft addition related but not linked documents to revisit another time, schedule for review at furture arbitrary date that isn't tomorrow, trash it, etc. This helps a dyslexic as myself speak with my system to hash through things, whilst still discovering the most surprising perspectives hiding in my graph. All because there is no firmly assigned special-ness to not one document. Seriously, in my experience these approaches bring great suprises of unique personal insights about ourselves and the undeniable but easily forgotten interdepence with our communities, planet, and all the other the moving parts some of us consider to be a significant chunk of chaw in our waking lives.
+This helps dyslexics like myself stay on top of things whilst consistently waking up to new and surprising insights and unexpected and welcome perspectives into my life.
 
-Since July 2021, personal productivity has increased monthly by leaps; simply by using the mega-pre-alpha monstrosities of these tools without additional expectations. And to my personal surprise, more productive didn't change life much at all--in November efficiency with minimal loss of attention and engagement hit a threshold in what I previously imagined would be profound. But I simply realized there was never any reason to work late, lose sleep, take time away from friendships, family, and adventures into the world. There is only so much sweeping that can be done in a day. And every day a moment arrives that carries the opportunity to recognize I've found myself closing shop left with a win, loss, or draw to accept and drop until tomorrow's briefing.
+Things that I've often forgotten I'd inserted into my graph are told back to me in new ways and with a different order and arrangement that provides value I may have missed had I not revisited the content from the previous day.
 
-Time to throw this through some summarizing toolage and commit a kinder word-count. Cheers!
+Even then, when I revisit these sorts of records without the aid of my morning briefing, I often miss some real nuggets of personal value and discovery. Hard to admit, but apparently I like myself just as much as I like everybody else; there is no denying it: countless times now, I've heard my own story told differently and became enthusiastic just swiftly enough to out-pace my inner-bleh machine that constantly robs me of my basic experience things without so much EXTRA-ness.
 
+There's more, but.. maybe a proper future post on medium or p-blog.
 ---
 
 - 😄 Pronouns: any
