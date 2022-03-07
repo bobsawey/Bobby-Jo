@@ -13,6 +13,7 @@ Things that I've often forgotten I'd inserted into my graph are told back to me 
 Even then, when I revisit these sorts of records without the aid of my morning briefing, I often miss some real nuggets of personal value and discovery. Hard to admit, but apparently I like myself just as much as I like everybody else; there is no denying it: countless times now, I've heard my own story told differently and became enthusiastic just swiftly enough to out-pace my inner-bleh machine that constantly robs me of my basic experience things without so much EXTRA-ness.
 
 There's more, but.. maybe a proper future post on medium or p-blog.
+
 ---
 
 - 😄 Pronouns: any
