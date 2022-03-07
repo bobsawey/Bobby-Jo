@@ -1,32 +1,22 @@
 # Hi there 👋, our name is Bobby Jo
 
-quick disclosure: *A machine was utilized to assist with editing and condensing the previous versions of my bio below. Most words are my own. The arrangement and quantity of content was significantly revised by prior mentioned non-human.*
+I am a mathematician who researches Computational Math and Linguistics.
+And I like all the other cool kid stuff too..you know: Systems Theory / System Dynamics / Train Simulator 2022.
 
-I am a mathematician who researches Computational Math and Linguistics. I am currently working on personal and private graphing tools / apps that utilize novel solutions for "organizing" data. My personal primary use for these tools at the moment involves dumping data and content from various sources throughout my day into my graph. 
+Much of my week is currently budgeted toward designing and building personal graphing tools that lean heavily into flat ontologies to facilitate betterliving through Better living through Sociocybernetics( ask me how! )
 
-Many mornings these days I use another tool I'm working on that has a purely speech-driven conversational interface. This tool provides me with a digest of the previous day's content. 
-
-This helps dyslexics like myself stay on top of things whilst consistently waking up to new and surprising insights and unexpected and welcome perspectives into my life.
-
-Things that I've often forgotten I'd inserted into my graph are told back to me in new ways and with a different order and arrangement that provides value I may have missed had I not revisited the content from the previous day.
-
-Even then, when I revisit these sorts of records without the aid of my morning briefing, I often miss some real nuggets of personal value and discovery. Hard to admit, but apparently I like myself just as much as I like everybody else; there is no denying it: countless times now, I've heard my own story told differently and became enthusiastic just swiftly enough to out-pace my inner-bleh machine that constantly robs me of my basic experience things without so much EXTRA-ness.
-
-And of additional awesomeness, I am learning to do this process on my own, without machinery––slowly but surely. This for me is more an accessibility tool that was previously nowhere to be found than one to augment cognitive and sensory ability common to ~75-81% of adults. By providing that tiny bit of ease of access to this sort of process, cybernetically by some definitions, my skill and muscle to handle personal tasks in this domain are steadily increasing. I believe it is the purpose of technology to serve our human experience, any other application doesn't seem to really amount in anything at all. And it is my wish to spend my time in this crazy domains of math, computing, language, and cybernetics to help facilitate that sort of benefit for others.
-
-There's so more, but.. maybe a proper future post on medium or p-blog.
-
-CHEERS -B
-
----
+Currently KonMari-ing my Github and disorganized digital piles of source code scattered across my storage devices over the years.
 
 - 😄 Pronouns: any
 
-### Catch me on:
+---
+
 **links**
 
-### Some Stuff:
-- stuff
+### Stuff 1
+...
+### Stuff N
+
 ---
-## Shout out
-Many thanks to [Stella Biderman](https://github.com/StellaAthena/StellaAthena) for this helpful "HELLO!" template.
+###### Shout out
+Many thanks to [Stella Biderman](https://github.com/StellaAthena/StellaAthena) for this helpful "HELLO!" Readme.md that I put to work as a template for my own.
