@@ -1,5 +1,8 @@
 # Hi there 👋, our name is Bobby Jo
 
+update: we are much on gitlab atm. bringing private repos public "soon!"
+(GITLAB)[https://gitlab.com/bobsawey]
+
 I am a mathematician who researches Computational Math and Linguistics.
 And I like all the other cool kid stuff too..you know: Systems Theory / System Dynamics / Train Simulator 2022.
 
